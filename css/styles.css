@@ -165,7 +165,9 @@ footer {
 /* ----------Чем мы занимаемся---------- */
 
 /* ----------Наша команда---------- */
-
+.our-team {
+  background-color: #f5f4fa;
+}
 .our-team-employee-name {
   font-weight: 500;
   font-size: 16px;
